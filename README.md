@@ -67,7 +67,7 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 <br />
 
-<h2> Step 6: Creating a Script File </h2>
+<h2> Step 6: Creating Backup Script File </h2>
 
 <br />
 <br />
@@ -85,7 +85,7 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 <br />
 
-<h2> Step 7: Executing Script File </h2>
+<h2> Step 7: Executing Backup Script File </h2>
 
 <br />
 <br />
@@ -104,7 +104,7 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 
 
-<h2> Step :  </h2>
+<h2> Step 8: Creating Update Script File </h2>
 
 <br />
 <br />
@@ -112,12 +112,31 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
 
-<h2> Step :  </h2>
+
+<h2> Step 9: Executing Update Script File </h2>
 
 <br />
 <br />
 <p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
 <img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
