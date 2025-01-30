@@ -8,7 +8,6 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 -  <b>System Maintenance</b>:<br />
   -  backup.sh – Backups /home directory.<br />
   -  update.sh – Automates system updates.<br />
-  -  Cleanup.sh – Removes unnecessary files.<br />
 -  <b>Security & Compliance</b>: Integrated scripts into system-wide cron jobs and scheduled Lynis security scans.<br />
 <br />
 
@@ -59,32 +58,51 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 <br />
 
-<h2> Step 5: Creating Scripts for Automation </h2>
+<h2> Step 5: Creating Directories for Scripts </h2>
 
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/AmDE7tk.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 
-<h2> Step :  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2> Step :  </h2>
+<h2> Step 6: Creating a Script File </h2>
 
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/v6OZll6.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
+<img src="https://i.imgur.com/HXc5w0v.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<img src="https://i.imgur.com/BmnSmR9.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<img src="https://i.imgur.com/dynD1h2.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2> Step 7: Executing Script File </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/h3Mvsdb.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<img src="https://i.imgur.com/b1yLpPR.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<img src="https://i.imgur.com/ZTt6mUt.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<img src="https://i.imgur.com/gnjBPFT.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
 
 <h2> Step :  </h2>
 
