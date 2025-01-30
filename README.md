@@ -109,16 +109,16 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/xJ3kmJC.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/HILh3V9.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/WtKWuW0.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/KwkUlAM.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 
