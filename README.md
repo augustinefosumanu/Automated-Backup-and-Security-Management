@@ -128,105 +128,39 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/90qQTfz.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/H0hnZxC.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 
-<h2> Step :  </h2>
+<h2> Step 10: Copying Scripts to Cron Directories in /etc </h2>
 
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/zqi56rw.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 
-<h2> Step :  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2> Step :  </h2>
+<h2> Step 13: Ensuring System Security with Regular Scans </h2>
 
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/1WtBqAN.png" height="80%" width="90%" alt="Full Scan"/>
 <br />
 <br />
-
-<h2> Step :  </h2>
-
+<img src="https://i.imgur.com/oT0HvSZ.png" height="80%" width="90%" alt="Full Scan"/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/3R2GKEj.png" height="80%" width="90%" alt="Partial Scan"/>
 <br />
 <br />
-
-<h2> Step :  </h2>
-
+<img src="https://i.imgur.com/w13Nzct.png" height="80%" width="90%" alt="Partial Scan"/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2> Step :  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2> Step :  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2> Step :  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2> Step :  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2> Step :  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/zg3xfD8.png" height="80%" width="90%" alt="Adding Lynis Scripts to Root Crontab for Task Automation"/>
 <br />
 <br />
