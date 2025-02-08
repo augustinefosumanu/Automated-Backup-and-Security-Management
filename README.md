@@ -11,7 +11,7 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 -  <b>Security & Compliance</b>: Integrated scripts into system-wide cron jobs and scheduled Lynis security scans.<br />
 <br />
 
-<h2> Step 1: Checking the Status of Cron </h2>
+<h2> Checking the Status of Cron </h2>
 
 <br />
 <br />
@@ -20,7 +20,7 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 <br />
 
-<h2> Step 2: Creating Directories </h2>
+<h2> Creating Directories </h2>
 
 <br />
 <br />
@@ -32,7 +32,7 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 <br />
 
-<h2> Step 3: Automating Tasks in Crontab </h2>
+<h2>  Automating Tasks in Crontab </h2>
 
 <br />
 <br />
@@ -49,7 +49,7 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 <br />
   
-<h2> Step 4: Verifying the Creation of Crontab </h2>
+<h2>  Verifying the Creation of Crontab </h2>
 
 <br />
 <br />
@@ -85,7 +85,7 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 <br />
 
-<h2> Step 7: Executing Backup Script File </h2>
+<h2>  Executing Backup Script File </h2>
 
 <br />
 <br />
@@ -104,7 +104,7 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 
 
-<h2> Step 8: Creating Update Script File </h2>
+<h2>  Creating Update Script File </h2>
 
 <br />
 <br />
@@ -123,7 +123,7 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 
 
-<h2> Step 9: Executing Update Script File </h2>
+<h2>  Executing Update Script File </h2>
 
 <br />
 <br />
@@ -135,7 +135,7 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 <br />
 
-<h2> Step 10: Copying Scripts to Cron Directories in /etc </h2>
+<h2>  Copying Scripts to Cron Directories in /etc </h2>
 
 <br />
 <br />
@@ -144,7 +144,7 @@ In this lab, I developed and automated critical system tasks to enhance data sec
 <br />
 <br />
 
-<h2> Step 13: Ensuring System Security with Regular Scans </h2>
+<h2>  Ensuring System Security with Regular Scans </h2>
 
 <br />
 <br />
