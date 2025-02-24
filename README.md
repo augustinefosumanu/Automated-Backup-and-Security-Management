@@ -1,15 +1,15 @@
 # Automated Backup and Security Management
 
-<h2> Lab </h2>
-In this lab, I developed and automated critical system tasks to enhance data security, integrity, and HIPAA compliance:<br/>
+<h2> Overview </h2>
+This lab focused on automating essential system tasks to strengthen data security, integrity, and HIPAA compliance. I developed and implemented automation for file organization, backup management, and system maintenance while ensuring security best practices.
 
--  <b>File Organization</b>: Automated movement of patient, doctor, and treatment files using cron.<br />
--  <b>Backup Automation</b>: Scheduled full backups of critical directories and verified archive integrity.<br />
--  <b>System Maintenance</b>:<br />
-  -  backup.sh – Backups /home directory.<br />
-  -  update.sh – Automates system updates.<br />
--  <b>Security & Compliance</b>: Integrated scripts into system-wide cron jobs and scheduled Lynis security scans.<br />
-<br />
+<h2>Technical Skills</h2>
+✅ Automated File Management (cron)<br />
+✅ Backup & Disaster Recovery Planning<br />
+✅ System Update Automation<br />
+✅ Shell Scripting (bash)<br />
+✅ Security & Compliance Auditing (Lynis)<br />
+✅ Cron Job Scheduling & Management<br />
 
 <h2> Checking the Status of Cron </h2>
 
